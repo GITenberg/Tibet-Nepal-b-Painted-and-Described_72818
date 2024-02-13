@@ -1,0 +1,35 @@
+_repo: Tibet-Nepal-b-Painted-and-Described_72818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Landor, Arnold Henry Savage
+    aliases:
+    - Landor, A. Henry Savage (Arnold Henry Savage)
+    - Landor, A. H. Savage
+    - Landor, Henry Savage
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '4851'
+    url: http://www.gutenberg.org/2009/agents/4851
+    wikipedia: https://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72818'
+language: en
+pgterms:marc904: https://archive.org/details/tibetnepal00landiala/page/n11/mode/2up
+pgterms:marc905: 20200528141407landor
+pgterms:marc906: '1905'
+pgterms:marc907: EN
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bA. & C. Black, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tibet & Nepal : $b Painted and Described'
+url: http://www.gutenberg.org/ebooks/72818
