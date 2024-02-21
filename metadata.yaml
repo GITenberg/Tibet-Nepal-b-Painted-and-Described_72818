@@ -1,5 +1,8 @@
 _repo: Tibet-Nepal-b-Painted-and-Described_72818
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72818-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Landor, Arnold Henry Savage
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4851
     wikipedia: https://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72818#Tibet-Nepal-b-Painted-and-Described
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
